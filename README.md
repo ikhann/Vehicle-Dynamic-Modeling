@@ -1,8 +1,5 @@
 # Vehicle-Dynamic-Modeling
 Implementation of the forward longitudinal vehicle model. The model accepts inputs and steps through the dynamic equations.
-
-Тестовое задание от Ханинаева Даниила для Topcon
-
 khaninaev@yahoo.com
 
 Предложение и реализация динамической модели реализовано в среде Jupyter Notebook с использованием языка программирования Python3.
